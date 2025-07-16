@@ -9,6 +9,12 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^5.11.1"
+    "@astrojs/tailwind": "^6.0.2",
+    "@astrojs/vue": "^5.1.0",
+    "astro": "^5.11.1",
+    "gsap": "^3.13.0",
+    "katex": "^0.16.22",
+    "mathjax-full": "^3.2.2",
+    "three": "^0.178.0"
   }
 }
